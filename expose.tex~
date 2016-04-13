@@ -1,0 +1,171 @@
+\documentclass[12pt]{beamer}
+\usetheme{EastLansing}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+
+\author{N. \bsc{Ribero-Rios} \and C.-A. \bsc{Romain} \and B. \bsc{Rouger}}
+\title{Exposé d'Immunologie 5}
+\subtitle{Mesure de l’activité cytotoxique des lymphocytes T par le test de relargage de Chrome}
+\logo{\includegraphics[width=0.1\linewidth]{logo.png}}
+% \institute{}
+\date{}
+% \subject{}
+% \setbeamercovered{transparent}
+% \setbeamertemplate{navigation symbols}{}
+
+\begin{document}
+\maketitle
+
+
+\begin{frame}
+  \transuncover
+  \tableofcontents
+\end{frame}
+
+
+\section{Principe}
+\subsection{Principe général}
+\begin{frame}
+  \transuncover
+  \frametitle{Principe général}
+  
+  \textbullet~ Définition de \textbf{test de cytotoxicité}\\
+  \vfill
+  \textbullet~ Quantification de la cytotoxicité des LT CD8 activés en fonction d'un agent pathogène
+  
+\end{frame}
+
+
+\subsection{Mise en \oe{}uvre}
+\begin{frame}
+  \transuncover
+  \frametitle{Mise en \oe{}uvre du test de cytotoxicité}
+
+  \begin{minipage}{0.45\linewidth}
+    \begin{itemize}
+    \item Mise en culture d'un nombre déterminé de cellules / confluence
+    \item Marquage des protéines cytoplasmiques des cellules cibles au $^{51}$Chrome
+    \item Infection des cellules cibles par un agent pathogène
+    \end{itemize}
+  \end{minipage}
+  \begin{minipage}{0.45\linewidth}
+    \begin{itemize}
+    \item Mise en contact des cellules cibles avec les cellules effectrices (LT CD8+ spécifiques)
+      \begin{itemize}
+      \item granzyme B
+      \item perforine
+      \end{itemize}
+    \item Mesure de la radioactivité du surnageant
+    \item Calcul du taux de lyse
+    \end{itemize}
+  \end{minipage}
+\end{frame}
+
+ \begin{frame}
+   \frametitle{Mise en \oe{}uvre du test de cytotoxicité}
+	 \begin{figure}
+       \includegraphics[width=0.7\linewidth]{presentation.png}
+	 \end{figure}
+  
+ \end{frame}
+
+
+\section{Avantages et inconvénients}
+\subsection{Avantages}
+\begin{frame}
+  \transuncover
+  \frametitle{Avantages}
+
+  \begin{itemize}
+  \item Ne permet pas de détecter la mort cellulaire par apoptose
+  \item Radioactivité (lourd à mettre en place, traitement des déchets, dangers lors de la manipulation)
+  \item Besoin de lancer une culture de cellules cibles histocompatibles (long et lourd à mettre en place)
+  \item Problème de virus à tropisme restreint
+  \item Sensibilité faible
+  \item Ne quantifie pas la production de cytokynes
+  \end{itemize}
+
+  \begin{center}
+    \begin{tabular}{|p{0.4\linewidth} | p{0.4\linewidth} |}
+      \hline 
+      Avantages & Inconvénients \\ 
+      \hline 
+      \textbullet~ Le plus couramment employé & \textbullet~ Ne permet pas de détecter la mort par apoptose \\ 
+                & \textbullet~ Utilisation de la radioactivité \\ 
+      \hline 
+    \end{tabular} 
+  \end{center}
+
+\end{frame}
+
+\subsection{Inconvénients}
+
+\begin{frame}
+  \transuncover
+  \frametitle{Inconvénients}
+\end{frame}
+
+
+\section{Techniques complémentaires}
+\subsection{Technique ELISPOT}
+
+\begin{frame}
+  \transuncover
+  \frametitle{Technique ELISPOT (ENZYM LINKED IMMUNOSPOT)}
+  
+
+\end{frame}
+
+\subsection{Marquage intracellulaire des cytokynes}
+
+\begin{frame}
+  \transuncover
+  \frametitle{Marquage intracellulaire des cytokynes}
+
+\end{frame}
+
+\subsection{Technique de cytométrie}
+
+\begin{frame}
+  \transuncover
+  \frametitle{Technique de cytométrie}
+
+
+\end{frame}
+
+\section{Conclusion}
+
+\begin{frame}
+  \transuncover
+  \frametitle{Conclusion}
+
+  \begin{itemize}
+  \item Expérience historique
+  \item Pas vraiment d'équivalent quant à la quantification de la cytotoxicité
+  \end{itemize}
+
+\end{frame}
+
+\appendix
+
+\section{Références}
+
+\begin{frame}
+  \transuncover
+  \frametitle{Références}
+
+  \textbullet~ http://etudiantsfr.net/analyses-de-lymphocytes-t-specifiques-dantigenes/\\
+  \vfill
+  \textbullet~ Y. Rivière, F. Buseyne, D. Scott-Algara. Les outils d’exploration de l’activité des lymphocytes T CD8+. Virologie. 2000;4(6):463-71. (http://www.jle.com/fr/revues/vir/e-docs/les\_outils\_dexploration\_de\_lactivite\_des\_lymphocytes\_t\_cd8\_\_260033/article.phtml?tab=images)\\
+  \vfill
+  \textbullet~ New flow cytometric assays for monitoring cell-mediated cytotoxicity Liubov Zaritskaya1, Michael R Shurin2, Thomas J Sayers3, and Anatoli M Malygui,Expert Rev Vaccines. 2010 June ; 9(6): 601–616. doi:10.1586/erv.10.49.
+\end{frame}
+
+	
+\end{document}
