@@ -3,12 +3,12 @@
 \beamer@sectionintoc {1}{Principe}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Principe g\IeC {\'e}n\IeC {\'e}ral}{3}{0}{1}
 \beamer@subsectionintoc {1}{2}{Mise en \oe {}uvre}{4}{0}{1}
-\beamer@sectionintoc {2}{Avantages et inconv\IeC {\'e}nients}{6}{0}{2}
-\beamer@subsectionintoc {2}{1}{Avantages}{6}{0}{2}
-\beamer@subsectionintoc {2}{2}{Inconv\IeC {\'e}nients}{7}{0}{2}
-\beamer@sectionintoc {3}{Techniques compl\IeC {\'e}mentaires}{8}{0}{3}
-\beamer@subsectionintoc {3}{1}{Technique ELISPOT}{8}{0}{3}
-\beamer@subsectionintoc {3}{2}{Marquage intracellulaire des cytokynes}{11}{0}{3}
-\beamer@subsectionintoc {3}{3}{Technique de cytom\IeC {\'e}trie}{13}{0}{3}
-\beamer@sectionintoc {4}{Conclusion}{15}{0}{4}
-\beamer@sectionintoc {5}{R\IeC {\'e}f\IeC {\'e}rences}{16}{1}{5}
+\beamer@sectionintoc {2}{Avantages et inconv\IeC {\'e}nients}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Avantages}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Inconv\IeC {\'e}nients}{6}{0}{2}
+\beamer@sectionintoc {3}{Techniques compl\IeC {\'e}mentaires}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Technique ELISPOT}{7}{0}{3}
+\beamer@subsectionintoc {3}{2}{Marquage intracellulaire des cytokynes}{10}{0}{3}
+\beamer@subsectionintoc {3}{3}{Technique de cytom\IeC {\'e}trie}{12}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{14}{0}{4}
+\beamer@sectionintoc {5}{R\IeC {\'e}f\IeC {\'e}rences}{15}{1}{5}
